@@ -1,0 +1,3 @@
+nodejs文件里是node.js文件，应用时在云服务器上打开，与本地通过网址连接。
+nodemysql文件夹是android源代码。
+只是一个简单的小app，用于理解云服务器怎么部署，怎么在云服务器上使用mysql，以及怎么在android程序中使用它。
